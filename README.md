@@ -33,4 +33,4 @@ After completing the [installation](#installation) step, you're ready to start t
 
 
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg
-[license-url]: https://github.com/
+[license-url]: https://github.com/1010code/babel-tutorial/blob/master/LICENSE
