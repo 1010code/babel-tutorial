@@ -1,0 +1,18 @@
+{
+  "name": "babel-tutorial",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  },
+  "scripts": {
+    "start": "npx babel-node src/index.js",
+    "debug": "nodemon src/index.js --exec babel-node",
+    "build": "npx babel src --out-dir dist"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {}
+}
